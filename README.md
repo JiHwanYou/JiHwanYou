@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer with interest in applied and R&D ML/DL.  
+I'm an engineer with interest in applied AI and deveolping ML/DL applications.  
 Currently working on generating deep learning models.
 
 📫 How to reach me: pinguvenom@gmail.com
